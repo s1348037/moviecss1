@@ -6,6 +6,6 @@ body {
 h1: {
     	font-family: Times New Roman
 	color: #ff0000 }
-a:link {
+a: link {
     background-color: #CCCCCC;
 }
